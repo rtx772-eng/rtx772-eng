@@ -23,16 +23,25 @@ I'm a passionate red teamer and AI security enthusiast based in Morocco. I'm on 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
-## 🏅 My Certifications
 
-### Fortinet Badges
+## 🏅 My Certifications & Achievements
+
+### 🛡️ Fortinet
 [![Fortinet Certified Fundamentals](https://img.shields.io/badge/Fortinet-Certified_Fundamentals-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.credly.com/users/mohamed-cherradi)
 [![Getting Started in Cybersecurity 3.0](https://img.shields.io/badge/Fortinet-Getting_Started_in_Cybersecurity-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.credly.com/users/mohamed-cherradi)
 [![Introduction to Threat Landscape 3.0](https://img.shields.io/badge/Fortinet-Introduction_to_Threat_Landscape-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.credly.com/users/mohamed-cherradi)
 
-### Cisco Badges
-[![Junior Cybersecurity Analyst](https://img.shields.io/badge/Cisco-Junior_Cybersecurity_Analyst-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/mohamed-cherradi)
+### 🌐 Cisco
 [![Introduction to Cybersecurity](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/mohamed-cherradi)
+[![Junior Cybersecurity Analyst](https://img.shields.io/badge/Cisco-Junior_Cybersecurity_Analyst-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/mohamed-cherradi)
+
+### 🔵 Security Blue Team
+[![Junior Analyst - Blue Team](https://img.shields.io/badge/Security_Blue_Team-Junior_Analyst-0047AB?style=for-the-badge&logo=security&logoColor=white)](https://www.securityblue.team/)
+[![Certified Blue Team Practitioner (CBTP) - Mock Exam](https://img.shields.io/badge/Blue_Team-CBTP_Mock_Exam-0047AB?style=for-the-badge&logo=security&logoColor=white)](https://www.securityblue.team/)
+[![Certified Social Engineering Defense Practitioner (CSEDP) - Mock Exam](https://img.shields.io/badge/Blue_Team-CSEDP_Mock_Exam-0047AB?style=for-the-badge&logo=security&logoColor=white)](https://www.securityblue.team/)
+
+### 📊 ArcX Cyber Threat Intelligence
+[![Cyber Threat Intelligence](https://img.shields.io/badge/ArcX-Cyber_Threat_Intelligence-800080?style=for-the-badge&logo=acclaim&logoColor=white)](https://www.arcx.io/)
 
 
 ## 📌 Featured Projects
