@@ -22,9 +22,16 @@ I'm a passionate red teamer and AI security enthusiast based in Morocco. I'm on 
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
+
 ## 🏅 My Certifications
 
+### Fortinet Badges
+[![Fortinet Certified Fundamentals](https://img.shields.io/badge/Fortinet-Certified_Fundamentals-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.credly.com/users/mohamed-cherradi)
+[![Getting Started in Cybersecurity 3.0](https://img.shields.io/badge/Fortinet-Getting_Started_in_Cybersecurity-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.credly.com/users/mohamed-cherradi)
+[![Introduction to Threat Landscape 3.0](https://img.shields.io/badge/Fortinet-Introduction_to_Threat_Landscape-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.credly.com/users/mohamed-cherradi)
+
 ### Cisco Badges
+[![Junior Cybersecurity Analyst](https://img.shields.io/badge/Cisco-Junior_Cybersecurity_Analyst-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/mohamed-cherradi)
 [![Introduction to Cybersecurity](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/mohamed-cherradi)
 
 
