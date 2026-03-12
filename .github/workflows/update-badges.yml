@@ -1,7 +1,7 @@
 name: Update badges
 
 on:
-  workflow_dispatch:  # allows manual trigger
+  workflow_dispatch:
   schedule:
     # Runs at 1am UTC on Sunday
     - cron: "0 1 * * 0"
@@ -14,7 +14,5 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER: Mohamed Cherradi  # REPLACE with your Credly username
-          CREDLY_SORT: RECENT  # or POPULAR
-          BADGE_SIZE: 110  # optional, default 110
-          NUMBER_LAST_BADGES: 10  # optional, show last 10 badges
+          CREDLY_USER: mohamed-cherradi
+          NUMBER_LAST_BADGES: 10
