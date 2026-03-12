@@ -130,9 +130,17 @@ I'm a passionate red teamer and AI security enthusiast based in Morocco. I'm on 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
-## 🚀 24-Month Progress
-- [x] Month 0: GitHub portfolio created
-- [ ] Month 1: Network Scanner (in progress)
-- [ ] Month 2: Port Scanner
-- [ ] Month 3: Windows Enumeration Script
-- [ ] ... (continue for all 24 months)
+## 🔥 Quick Stats
+
+| Metric | Count |
+|:---|:---|
+| 📁 Total Projects Planned | 24 |
+| ✅ Completed | 1 |
+| 🎓 Certifications | 12+ |
+| 💼 Company Simulations | 3 |
+| 🛡️ Blue Team Certs | 3 |
+| 🤖 AI/Cyber Certs | 1 |
+
+---
+
+*"The best way to learn is to build. 24 projects in 24 months."*
