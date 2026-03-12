@@ -1,18 +1,26 @@
-name: Update badges
+name: Update Credly Badges
 
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 1am UTC on Sunday
-    - cron: "0 1 * * 0"
+    - cron: '0 0 * * 0'  # Runs weekly
 
 jobs:
-  update-readme:
-    name: Update Readme with badges
+  update-badges:
     runs-on: ubuntu-latest
     steps:
-      - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
+      - uses: actions/checkout@v3
+      
+      - name: Update Credly Badges
+        uses: ericnakagawa/credly-badges-action@latest
         with:
-          CREDLY_USER: mohamed-cherradi
-          NUMBER_LAST_BADGES: 10
+          CREDLY_USERNAME: mohamed-cherradi
+          BADGE_COUNT: 10
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update Credly badges"
+          git push
