@@ -22,6 +22,11 @@ I'm a passionate red teamer and AI security enthusiast based in Morocco. I'm on 
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
+## 🏅 My Certifications
+
+### Cisco Badges
+[![Introduction to Cybersecurity](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/mohamed-cherradi)
+
 
 ## 📌 Featured Projects
 *Coming soon — 24 projects over 24 months*
