@@ -67,6 +67,11 @@ I'm a passionate red teamer and AI security enthusiast based in Morocco. I'm on 
 | **Cybersecurity Job Simulation** | Mastercard | 💼 Virtual Internship |
 | **GenAI for Proposal Generation** | EAB | 🤖 AI/ML Simulation |
 
+ ## 📂 My 24-Month Project Portfolio
+
+👉 **[View all projects →](https://github.com/rtx772-eng/red-team-portfolio)**
+
+
 
 ## 📌 Featured Projects
 *Coming soon — 24 projects over 24 months*
