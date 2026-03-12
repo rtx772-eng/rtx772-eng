@@ -20,6 +20,9 @@ I'm a passionate red teamer and AI security enthusiast based in Morocco. I'm on 
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ## 📌 Featured Projects
 *Coming soon — 24 projects over 24 months*
 
