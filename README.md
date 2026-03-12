@@ -24,9 +24,35 @@ I'm a passionate red teamer and AI security enthusiast based in Morocco. I'm on 
 <!--END_SECTION:badges-->
 
 
+## 🏅 My Certifications & Achievements
+
+### 🛡️ Fortinet
+[![Fortinet Certified Fundamentals](https://img.shields.io/badge/Fortinet-Certified_Fundamentals-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.credly.com/users/mohamed-cherradi)
+[![Getting Started in Cybersecurity 3.0](https://img.shields.io/badge/Fortinet-Getting_Started_in_Cybersecurity-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.credly.com/users/mohamed-cherradi)
+[![Introduction to Threat Landscape 3.0](https://img.shields.io/badge/Fortinet-Introduction_to_Threat_Landscape-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.credly.com/users/mohamed-cherradi)
+
+### 🌐 Cisco
+[![Introduction to Cybersecurity](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/mohamed-cherradi)
+[![Junior Cybersecurity Analyst](https://img.shields.io/badge/Cisco-Junior_Cybersecurity_Analyst-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/mohamed-cherradi)
+
+### 🔵 Security Blue Team
+[![Junior Analyst - Blue Team](https://img.shields.io/badge/Security_Blue_Team-Junior_Analyst-0047AB?style=for-the-badge&logo=security&logoColor=white)](https://www.securityblue.team/)
+
+### 🔷 SecOps Groups
+[![Certified Blue Team Practitioner - Mock Exam](https://img.shields.io/badge/SecOps_Groups-CBTP_Mock_Exam-2A52BE?style=for-the-badge&logo=security&logoColor=white)](https://www.secopsgroups.com/)
+[![Certified Social Engineering Defense Practitioner - Mock Exam](https://img.shields.io/badge/SecOps_Groups-CSEDP_Mock_Exam-2A52BE?style=for-the-badge&logo=security&logoColor=white)](https://www.secopsgroups.com/)
+
+### 📊 ArcX
+[![Cyber Threat Intelligence](https://img.shields.io/badge/ArcX-Cyber_Threat_Intelligence-800080?style=for-the-badge&logo=acclaim&logoColor=white)](https://www.arcx.io/)
+
+### 💼 Forage Virtual Internships
+[![Deloitte - Cyber Job Simulation](https://img.shields.io/badge/Deloitte-Cyber_Job_Simulation-0066B2?style=for-the-badge&logo=deloitte&logoColor=white)](https://www.theforage.com/)
+[![Mastercard - Cybersecurity Job Simulation](https://img.shields.io/badge/Mastercard-Cybersecurity_Job_Simulation-FF6C37?style=for-the-badge&logo=mastercard&logoColor=white)](https://www.theforage.com/)
+[![EAB - GenAI for Proposal Generation](https://img.shields.io/badge/EAB-GenAI_for_Proposal_Generation-662D91?style=for-the-badge&logo=artificial-intelligence&logoColor=white)](https://www.theforage.com/)
+
 ## 🏅 Certifications & Achievements
 
-| Certification | Issuing Organization | Category |
+| Certification | Issuing Organization | Type |
 |:---|:---|:---|
 | **Fortinet Certified Fundamentals Cybersecurity** | Fortinet | 🛡️ Network Security |
 | **Getting Started in Cybersecurity 3.0** | Fortinet | 🛡️ Fundamentals |
@@ -37,6 +63,9 @@ I'm a passionate red teamer and AI security enthusiast based in Morocco. I'm on 
 | **Certified Blue Team Practitioner (CBTP) - Mock Exam** | SecOps Groups | 🔷 Incident Response |
 | **Certified Social Engineering Defense Practitioner (CSEDP) - Mock Exam** | SecOps Groups | 🔷 Human Layer Security |
 | **Cyber Threat Intelligence** | ArcX | 📈 Threat Analysis |
+| **Cyber Job Simulation** | Deloitte | 💼 Virtual Internship |
+| **Cybersecurity Job Simulation** | Mastercard | 💼 Virtual Internship |
+| **GenAI for Proposal Generation** | EAB | 🤖 AI/ML Simulation |
 
 
 ## 📌 Featured Projects
