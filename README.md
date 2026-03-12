@@ -67,9 +67,55 @@ I'm a passionate red teamer and AI security enthusiast based in Morocco. I'm on 
 | **Cybersecurity Job Simulation** | Mastercard | 💼 Virtual Internship |
 | **GenAI for Proposal Generation** | EAB | 🤖 AI/ML Simulation |
 
- ## 📂 My 24-Month Project Portfolio
+## 🚀 My 24-Month Red Team + AI Security Journey
 
-👉 **[View all projects →](https://github.com/rtx772-eng/red-team-portfolio)**
+👉 **[View All Projects →](https://github.com/rtx772-eng/red-team-portfolio)**
+
+### Phase 1: Foundation (Months 1-6)
+| Month | Project | Status | Link |
+|:---|:---|:---|:---|
+| **Month 1** | Network Scanner | ✅ **COMPLETED** | [View Project](https://github.com/rtx772-eng/red-team-portfolio/tree/main/Phase1-Foundation/01-network-scanner) |
+| **Month 2** | Port Scanner + Banner Grabber | ⏳ Starting Soon | |
+| **Month 3** | Windows Enumeration Script | ⏳ | |
+| **Month 4** | Web Vulnerability Report | ⏳ | |
+| **Month 5** | OSINT Target Profile | ⏳ | |
+| **Month 6** | Password Cracking Demo | ⏳ | |
+
+### Phase 2: Core Red Team (Months 7-12)
+| Month | Project | Status | Link |
+|:---|:---|:---|:---|
+| **Month 7** | MITRE ATT&CK Mapping | ⏳ | |
+| **Month 8** | Alternative Course Project | ⏳ | |
+| **Month 9** | Active Directory Attack Lab | ⏳ | |
+| **Month 10** | Privilege Escalation Methodology | ⏳ | |
+| **Month 11** | Caldera C2 Lab | ⏳ | |
+| **Month 12** | Custom Payload Obfuscator | ⏳ | |
+
+### Phase 3: Advanced Red Team & Cloud (Months 13-18)
+| Month | Project | Status | Link |
+|:---|:---|:---|:---|
+| **Month 13** | Azure Attack Chain | ⏳ | |
+| **Month 14** | AWS Privilege Escalation | ⏳ | |
+| **Month 15** | Phishing Lab with Evilginx | ⏳ | |
+| **Month 16** | Purple Team Report | ⏳ | |
+| **Month 17** | 5 HTB/VulnHub Writeups | ⏳ | |
+| **Month 18** | Professional Pentest Report | ⏳ | |
+
+### Phase 4: AI Foundation (Months 19-21)
+| Month | Project | Status | Link |
+|:---|:---|:---|:---|
+| **Month 19** | MNIST Model Training | ⏳ | |
+| **Month 20** | Evasion Attack Demo | ⏳ | |
+| **Month 21** | Backdoor Attack Lab | ⏳ | |
+
+### Phase 5: LLM Security (Months 22-24)
+| Month | Project | Status | Link |
+|:---|:---|:---|:---|
+| **Month 22** | LLM Jailbreak Collection | ⏳ | |
+| **Month 23** | Automated AI Security Scan | ⏳ | |
+| **Month 24** | Full-Spectrum Attack Chain | ⏳ | |
+
+### 📊 Overall Progress
 
 
 
