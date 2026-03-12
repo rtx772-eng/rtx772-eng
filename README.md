@@ -122,9 +122,6 @@ I'm a passionate red teamer and AI security enthusiast based in Morocco. I'm on 
 ## 📌 Featured Projects
 *Coming soon — 24 projects over 24 months*
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rtx772-eng&show_icons=true&theme=radical)
-
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
@@ -135,7 +132,6 @@ I'm a passionate red teamer and AI security enthusiast based in Morocco. I'm on 
 | Metric | Count |
 |:---|:---|
 | 📁 Total Projects Planned | 24 |
-| ✅ Completed | 1 |
 | 🎓 Certifications | 12+ |
 | 💼 Company Simulations | 3 |
 | 🛡️ Blue Team Certs | 3 |
