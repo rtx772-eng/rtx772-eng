@@ -1,8 +1,10 @@
-# 👋 Hi, I'm [RTX]
+# 🛡️ RTX-77 | AI Red Team & Offensive Security Researcher (In-Training)
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8F33DF&width=600&lines=Red+Team+Operator;AI+Security+Specialist;24+Projects+in+24+Months;Based+in+Morocco" alt="Typing SVG" />
-</div>
+> "Building the future of AI security on 2014 hardware. Sabr & Grit."
+
+### 🚀 The 24-Month Full-Spectrum Roadmap (2024-2026)
+I am executing a dual-track research plan to master Traditional Infrastructure Security and Adversarial Machine Learning.
+
 
 ## 🛡️ About Me
 I'm a passionate red teamer and AI security enthusiast based in Morocco. I'm on a 24-month journey to master both traditional red teaming and AI/LLM security through hands-on projects.
