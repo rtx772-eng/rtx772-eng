@@ -1,9 +1,8 @@
-# 🛡️ RTX-77 | AI Red Team & Offensive Security Researcher (In-Training)
-
-> "Building the future of AI security on 2014 hardware. Sabr & Grit."
-
-### 🚀 The 24-Month Full-Spectrum Roadmap (2024-2026)
-I am executing a dual-track research plan to master Traditional Infrastructure Security and Adversarial Machine Learning.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=🛡️+RTX-77+%7C+AI+Red+Team+%26+Offensive+Security+Researcher;Building+the+future+of+AI+security+on+2014+hardware;Sabr+%26+Grit" alt="Typing SVG" />
+  </a>
+</div>
 
 
 ## 🛡️ About Me
