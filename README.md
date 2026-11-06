@@ -3,7 +3,10 @@
 </div>
 
 
+
 ## In the name of Allah , the Most Gracious , the Most Merciful . Alhamdulillah for everything 
+
+
 ## 🛡️ About Me
 I'm a passionate red teamer and AI security enthusiast based in Morocco. I'm on a 24-month journey to master both traditional red teaming and AI/LLM security through hands-on projects.
 
